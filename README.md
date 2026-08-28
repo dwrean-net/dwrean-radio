@@ -1,4 +1,12 @@
-# 📻 dwrean Radio
+<p align="center">
+  <img src="assets/dwrean-logo.png" width="120" alt="dwrean.net">
+</p>
+
+<h1 align="center">dwrean Radio</h1>
+
+<p align="center">
+  Δωρεάν portable διαδικτυακό ραδιόφωνο για Windows
+</p>
 
 Δωρεάν και portable εφαρμογή διαδικτυακού ραδιοφώνου για Windows από το [dwrean.net](https://www.dwrean.net/).
 
@@ -6,6 +14,10 @@
 ![Windows](https://img.shields.io/badge/Windows-64--bit-blue)
 ![Portable](https://img.shields.io/badge/Portable-Yes-green)
 ![Downloads](https://img.shields.io/github/downloads/dwrean-net/dwrean-radio/total)
+
+## Εικόνα της εφαρμογής
+
+![dwrean Radio για Windows](assets/dwrean-radio-screenshot.png)
 
 ## Τι είναι το dwrean Radio;
 
